@@ -1,6 +1,6 @@
-# Shady Penguin · Starter Ability Roller
+# ShadyPenguinn · Starter Ability Roller
 
-Ability randomizer for Shady Penguin "choose our starter" videos.
+Ability randomizer for ShadyPenguinn "choose our starter" videos.
 
 **Play it:** https://shadypenguinn.github.io/ability-roller/
 
